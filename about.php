@@ -96,7 +96,7 @@
 										Date of Birth
 										<ul>
 											<li>
-											October 03, 1994
+											October 03, 1995
 											</li>
 										</ul>
 									</dt>
@@ -147,7 +147,7 @@
 										School Year
 										<ul>
 											<li>
-											2014 – 2017
+											2015 â€“ 2017
 											</li>
 										</ul>
 									</dt>
@@ -228,7 +228,7 @@
 										School Year
 										<ul>
 											<li>
-											2015 – 2017
+											2015 â€“ 2017
 											</li>
 										</ul>
 									</dt>
@@ -310,7 +310,7 @@
 										School Year
 										<ul>
 											<li>
-											2015 – 2017
+											2015 â€“ 2017
 											</li>
 										</ul>
 									</dt>
@@ -392,7 +392,7 @@
 										School Year
 										<ul>
 											<li>
-											2015 – 2017
+											2015 â€“ 2017
 											</li>
 										</ul>
 									</dt>
@@ -474,7 +474,7 @@
 										School Year
 										<ul>
 											<li>
-											2015 – 2017
+											2015 â€“ 2017
 											</li>
 										</ul>
 									</dt>
@@ -555,7 +555,7 @@
 										School Year
 										<ul>
 											<li>
-											2015 – 2017
+											2015 â€“ 2017
 											</li>
 										</ul>
 									</dt>
